@@ -29,7 +29,7 @@ __author__  = 'RDX-shiva'
 
 
 import sys, os
-from core.IpGeoLocationLib import IpGeoLocationLib
+from core.IpGeoLocationLib.py import IpGeoLocationLib.py
 from core.Logger import Logger
 from core.Menu import parser,args,banner
     
