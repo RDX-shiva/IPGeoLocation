@@ -3,8 +3,8 @@
 
 """
     This file is part of IPGeoLocation tool.
-    Copyright (C) 2015-2016 @maldevel
-    https://github.com/maldevel/IPGeoLocation
+    Copyright (C) 2015-2016 @RDX-shiva
+    https://github.com/RDX-shiva/IPGeoLocation
     
     IPGeoLocation - Retrieve IP Geolocation information 
     Powered by http://ip-api.com
@@ -25,10 +25,10 @@
     For more see the file 'LICENSE' for copying permission.
 """
 
-__author__   = 'maldevel'
-__twitter__  = '@maldevel'
+__author__   = 'RDX-shiva'
+__twitter__  = '@RDX-shiva'
 __version__  = '2.0.4'
-__year__     = '2015-2016'
+__year__     = '2020-2021'
 
 
 from argparse import RawTextHelpFormatter
